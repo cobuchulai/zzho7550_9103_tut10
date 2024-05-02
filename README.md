@@ -8,3 +8,5 @@ hello world!
 #### Header 4
 ##### Header 5
 ###### Header 6
+
+![An image of the Mona Lisa](readmeImages/Mona_Lisa_500_x_700.jpg)
