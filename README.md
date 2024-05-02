@@ -9,4 +9,4 @@ hello world!
 ##### Header 5
 ###### Header 6
 
-![An image of the Mona Lisa](readmeImages/Mona_Lisa_500_x_700.jpg)
+![An image of the Mona Lisa](readmeImages/Mona_Lisa.jpg)
